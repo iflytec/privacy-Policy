@@ -76,11 +76,11 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 
 ---
-### 7. Limitation of Liability & Indemnification
+### **7. Limitation of Liability & Indemnification
 
 By using the App, you agree to indemnify, defend, and hold harmless the developer, iflytec, from and against any claims, liabilities, damages, losses, and expenses, including but not limited to legal fees, arising out of or in any way connected with your use of the App. The developer shall not be held liable for any direct, indirect, incidental, special, or consequential damages resulting from the use or inability to use the App, even if advised of the possibility of such damages.
 
-
+---
 ### **8. Changes to This Privacy Policy**
 
 We may update this policy from time to time. Changes will be posted here, and we encourage users to review it periodically.
