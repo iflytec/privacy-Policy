@@ -64,6 +64,8 @@ We take appropriate measures to protect your data but cannot guarantee absolute 
 
 You can manage app permissions via your device settings. Disabling certain permissions may impact app functionality.
 
+Account deletion is available within the app. Upon request, we will make our best effort to delete all associated data, subject to legal and technical limitations.
+
 ---
 
 ### **6. Contact Us**
