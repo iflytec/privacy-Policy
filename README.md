@@ -66,6 +66,10 @@ You can manage app permissions via your device settings. Disabling certain permi
 
 Account deletion is available within the app. Upon request, we will make our best effort to delete all associated data, subject to legal and technical limitations.
 
+To request data deletion, please visit our data deletion request page at yourwebsite.com/data-deletion or email us at iflytec@outlook.com with your account details.
+
+
+
 ---
 
 ### **6. Contact Us**
